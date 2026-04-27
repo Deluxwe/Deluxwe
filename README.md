@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="Fullpanel" alt="Manga banner" width="100%">
+  <img src="FullPanel" alt="Manga banner" width="100%">
 </p>
 <!--
 **Deluxwe/Deluxwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
